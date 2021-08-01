@@ -6,8 +6,8 @@
 **Contributions** :volcano:	
 ------------------------------------------
 
-* We crate a **new dataset** of hateful and non-hateful users and try to detect hateful users Graph Neural Network. 
-* We explore several supervised, unsupervised and **semi supervised machine learning models**, including the state-of-the-art deep learning models, to classify users as hateful and nonhateful. 
+* We crate a **new dataset** of hateful and non-hateful users from Gab and try to detect hateful users using GNN based model. 
+* We explore several supervised, unsupervised and **semi supervised machine learning models**, including the state-of-the-art deep learning models, to classify users as hateful and nonhateful.
 * We also notice that structural signatures learnt from a network are transferable in a zero shot setting to an unseen dataset.
 
 
@@ -24,9 +24,9 @@
 ~~~
 
 # Links (optional).
-url_gabDataset : "https://zenodo.org/record/5140191#.YQBGhI4zY2w"
-url_twitterDataset : "https://www.kaggle.com/manoelribeiro/hateful-users-on-twitter"
+gab_dataset : "https://zenodo.org/record/5140191#.YQBGhI4zY2w"
 
+twitter_dataset : "https://www.kaggle.com/manoelribeiro/hateful-users-on-twitter"
 
 
 ------------------------------------------

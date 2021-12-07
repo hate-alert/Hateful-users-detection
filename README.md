@@ -16,7 +16,7 @@
 
 ~~~bibtex
 @inproceedings{mithun2021hatefulusers,
-  title={"You too Brutus! Trapping Hateful Users in Social Media: Challenges, Solutions & Insights},
+  title={You too Brutus! Trapping Hateful Users in Social Media: Challenges, Solutions \& Insights},
   author={Das, Mithun and Saha, Punyajoy and Dutt, Ritam and Goyal, Pawan and Mukherjee, Animesh and Mathew, Binny},
   booktitle={Proceedings of the 32st ACM Conference on Hypertext and Social Media},
   pages={79--89},

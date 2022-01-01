@@ -15,12 +15,11 @@
 **Please cite our paper in any published work that uses any of these resources.**
 
 ~~~bibtex
-@inproceedings{mithun2021hatefulusers,
-  title={You too Brutus! Trapping Hateful Users in Social Media: Challenges, Solutions \& Insights},
+@inproceedings{das2021you,
+  title={You too brutus! trapping hateful users in social media: Challenges, solutions \& insights},
   author={Das, Mithun and Saha, Punyajoy and Dutt, Ritam and Goyal, Pawan and Mukherjee, Animesh and Mathew, Binny},
-  booktitle={Proceedings of the 32st ACM Conference on Hypertext and Social Media},
+  booktitle={Proceedings of the 32nd ACM Conference on Hypertext and Social Media},
   pages={79--89},
-  doi = {10.1145/3465336.3475106},
   year={2021}
 }
 ~~~

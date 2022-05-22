@@ -3,7 +3,7 @@ from nltk.tokenize import TweetTokenizer
 import emoji
 
 remove_puncts="[\{\};,.[!@#$%^&*()_+=?/\'\"\]]"
-apostrophe_file=open('DATA/apostrophe.txt')
+apostrophe_file=open('apostrophe.txt')
 apostrophe_dict={}
 tknzr=TweetTokenizer(strip_handles=True,reduce_len=True)
 

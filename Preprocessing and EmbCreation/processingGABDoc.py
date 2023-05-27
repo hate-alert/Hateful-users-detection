@@ -51,7 +51,7 @@ for user in  dict_user:
         text= preprocess.tweet_preprocess2(post_text)
         text=re.sub(only_words,'',text.lower())
         users_sentences[user].append([stemmer.stem(elem) for elem in text.split(' ') if elem not in stop_words])
-    users_sentences[user] = procPosts
+    #users_sentences[user] = procPosts
 
 with open('gab_user_Sentenses_proc.json', 'w') as f:
     json.dump(users_sentences,f)

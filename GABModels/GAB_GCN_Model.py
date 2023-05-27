@@ -398,19 +398,19 @@ getFoldWiseResult(test_roc)
 
 
 print("-----------------------------------------------------------------------------------------")
-print("\n--Validation--")
-for i in ValFinalAcc:
-    print(i, np.mean(ValFinalAcc[i]), np.std(ValFinalAcc[i]))
-for i in ValFinalF1:
-    print(i, np.mean(ValFinalF1[i]), np.std(ValFinalF1[i]))
+# print("\n--Validation--")
+# for i in ValFinalAcc:
+#     print(i, np.mean(ValFinalAcc[i]), np.std(ValFinalAcc[i]))
+# for i in ValFinalF1:
+#     print(i, np.mean(ValFinalF1[i]), np.std(ValFinalF1[i]))
 
-print("\n--Test--")
-print("Accuracy:")
-for i in TestFinalAcc:
-    print(i, np.mean(TestFinalAcc[i]), np.std(TestFinalAcc[i]))
-print("Macro F1-Score:")
-for i in TestFinalF1:
-    print(i, np.mean(TestFinalF1[i]), np.std(TestFinalF1[i]))
+# print("\n--Test--")
+# print("Accuracy:")
+# for i in TestFinalAcc:
+#     print(i, np.mean(TestFinalAcc[i]), np.std(TestFinalAcc[i]))
+# print("Macro F1-Score:")
+# for i in TestFinalF1:
+#     print(i, np.mean(TestFinalF1[i]), np.std(TestFinalF1[i]))
 
 
 #print("\n--Fin--")
